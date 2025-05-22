@@ -1,12 +1,17 @@
-# React + Vite
+Weather Vista
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description: A dynamic and responsive weather forecast website built with React, providing users with real-time weather updates and forecasts for locations worldwide. The app utilizes APIs to fetch current weather conditions, temperature, humidity, wind speed, and more, ensuring users stay informed about the weather.
 
-Currently, two official plugins are available:
+Features : 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Location-based weather: Users can search for weather forecasts by city name.
+2. Real-time updates: The app fetches current weather data and updates in real-time.
+3. Forecasts: Users can view detailed forecasts for the current day.
 
-## Expanding the ESLint configuration
+Technologies Used:
+1. React: For building the user interface and handling state changes.
+2. Weather API: For fetching current weather data and forecasts.
+3. CSS: For styling and layout.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+Made By Utkarsh Suryawanshi
